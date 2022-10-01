@@ -15,9 +15,9 @@ Participants will be provided with labeled training set containing texts from Tw
 
 We will provide participants with manually labeled tweets for training, validation and testing. The train set for stance detection subtask is based on a COVID-19 stance detection dataset (Glandt et al., 2021).
 
-* Train: 3000 tweets
+* Train: 2756 tweets
 * Validation: 600 tweets
-* Test: 669 tweets
+* Test: 800 tweets
  
 
 ### Subtask 2a. Stance Detection
